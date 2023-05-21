@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin Schenk</h1>
 <h3 align="center">Frontend and PHP developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=schenkmartin02&label=Profile%20views&color=0e75b6&style=flat" alt="schenkmartin02" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schenkmartin02" alt="schenkmartin02" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/schenkmartin02" target="blank"><img src="https://img.shields.io/twitter/follow/schenkmartin02?logo=twitter&style=for-the-badge" alt="schenkmartin02" /></a> </p>
-
 - 🔭 I’m currently working on [Angular LoL](https://lol.schenkmartin.hu)
 
 - 🌱 I’m currently learning **Java**
