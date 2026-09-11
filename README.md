@@ -1,25 +1,65 @@
-<h1 align="center">Hi 👋, I'm Martin Schenk</h1>
-<h3 align="center">Frontend and PHP developer</h3>
-
-- 🔭 I’m currently working on [Angular LoL](https://lol.schenkmartin.hu)
-
-- 🌱 I’m currently learning **Java**
-
-- 👨‍💻 All of my projects are available at [https://schenkmartin.hu](https://schenkmartin.hu)
-
-- 📫 How to reach me **schenkmartin2002@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/schenkmartin02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="schenkmartin02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/schmartin02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="schmartin02" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Martin Schenk, Java backend developer" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://schenkmartin.hu"><img src="https://img.shields.io/badge/web-schenkmartin.hu-F3B26A?style=for-the-badge&labelColor=182231" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/LINKEDIN"><img src="https://img.shields.io/badge/linkedin-Martin%20Schenk-F3B26A?style=for-the-badge&labelColor=182231" alt="LinkedIn" /></a>
+  <a href="mailto:schenkmartin2002@gmail.com"><img src="https://img.shields.io/badge/email-schenkmartin2002@gmail.com-F3B26A?style=for-the-badge&labelColor=182231" alt="Email" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schenkmartin02&show_icons=true&locale=en&layout=compact" alt="schenkmartin02" /></p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schenkmartin02&show_icons=true&locale=en" alt="schenkmartin02" /></p>
+I build backend systems in **Java and Spring Boot** — the kind that ingest a lot of data, store it well and serve it fast. I like the parts most people skip: concurrency, idempotency, caching and what happens when a job fails halfway through.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schenkmartin02&" alt="schenkmartin02" /></p>
+- 🔭 Building **[Feedless](https://feedless.gg)**, a League of Legends stats site for the Hungarian community
+- 🌱 Next up: a maintenance management system for factories
+- 💬 Ask me about Postgres job queues, rate limiting, or running a service on a single VPS
+- 📍 Pécs, Hungary
+
+<br />
+
+## 🔭 Feedless
+
+**[feedless.gg](https://feedless.gg)** shows player profiles, leaderboards and champion stats for EUNE and EUW. I designed, built and run the whole system: a crawler that pulls match data from the Riot API, a Java backend that aggregates it, and a Next.js frontend on top.
+
+**Built with** Java 21, Spring Boot 4.1, PostgreSQL 16, Flyway, Redis, Cloudflare R2, Docker Compose, Caddy, GitHub Actions and GHCR, plus Next.js, TypeScript and Tailwind on Vercel.
+
+**The interesting parts**
+
+- **Postgres as a job queue.** Crawler workers claim jobs with `SELECT … FOR UPDATE SKIP LOCKED`, and a scheduled job recovers stale ones, so workers never collide.
+- **Dual token-bucket rate limiting** with bucket4j, enforcing Riot's 20 req/s *and* 100 req/2 min limits at the same time.
+- **Patch-based partitioning** with a rolling six-patch window. Old data leaves by dropping a partition, not with a slow `DELETE`.
+- **Idempotent ingestion** through unique constraints, so re-crawling a match never duplicates it.
+- **Raw match JSON archived to Cloudflare R2**, so statistics can be recomputed from source whenever the logic changes.
+- Runs on a single Hetzner VPS behind Cloudflare with Full (Strict) TLS, deployed from CI-built container images.
+
+[Live site](https://feedless.gg) · [Source code](https://github.com/USERNAME/feedless)
+
+<br />
+
+## 🌱 Up next: maintenance management system
+
+A system for factory maintenance teams: machine registry, work orders with a real lifecycle, spare-parts inventory and preventive maintenance, fed by live machine data.
+
+Planned focus: role-based access with Spring Security, a work-order state machine, concurrency-safe spare-part reservations, machine data over MQTT that opens work orders on alarms, and MTBF, MTTR and OEE reporting. It runs against a fully simulated plant.
+
+<br />
+
+## 🛠️ Other things I build
+
+- **[Calox](https://playcalox.com)**, a sci-fi co-op survival base-builder in Unreal Engine 5, versioned with Perforce Helix Core.
+- **A multiplayer tactical FPS** in Unreal Engine 5, with a mixed C++ and Blueprint architecture and listen-server networking.
+- **KAPUŐR**, a garage-door code lock built from scratch: firmware, a custom PCB designed in KiCad, and 3D-printed enclosures generated with Python macros in FreeCAD.
+
+<br />
+
+## 🧰 Tech stack
+
+**Backend and infrastructure**
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,githubactions,cloudflare,linux&theme=dark" alt="Java, Spring, PostgreSQL, Redis, Docker, GitHub Actions, Cloudflare, Linux" />
+
+**Frontend, desktop and games**
+
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,angular,tailwind,electron,php,py,cpp,unreal,blender&theme=dark" alt="TypeScript, JavaScript, Next.js, React, Angular, Tailwind, Electron, PHP, Python, C++, Unreal Engine, Blender" />
